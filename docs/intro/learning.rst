@@ -69,7 +69,13 @@ Techbeamers.com provides step-by-step tutorials to teach Python. Each tutorial i
 
 `Learn Python Basic to Advanced <https://www.techbeamers.com/python-tutorial-step-by-step>`_
 
+Python Basics and Advanced
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+alphacodingskills.com provides online python tutorial which covers basics and advanced concept of it. Each and every topic is explained with lot of examples which makes learning easier and interesting.
+
+   `Python Basics & Advanced <https://www.alphacodingskills.com/python/>`_
+   
 Online Python Tutor
 ~~~~~~~~~~~~~~~~~~~
 
