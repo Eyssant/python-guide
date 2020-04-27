@@ -91,7 +91,13 @@ programs "look like".
 
     `Invent Your Own Computer Games with Python <http://inventwithpython.com/>`_
 
+Learn Python Basics and Advanced
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+alphacodingskills.com provides an online python tutorial that covers basics and advanced concepts of it. Each and every topic is explained with lots of examples which makes learning easier and interesting. 
+
+    `Learn Python Basics and Advanced<https://www.alphacodingskills.com/python/>`_
+    
 Hacking Secret Ciphers with Python
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
